@@ -1,5 +1,5 @@
 # infinity
-Circular infinity Mirror project using addressable LED's, based on the Infinity Mirror designed by Kevin Osbock at WyoLum. Can also be ued as an awesome Coaster, if a 5V source can be embedded in it.
+Circular infinity Mirror project using addressable LED's, based on the [Infinity Mirror designed by Kevin Osbock at WyoLum](https://github.com/wyolum/infinity). Can also be ued as an awesome Coaster, if a 5V source can be embedded in it.
 
 - The /fabricate folder has a FreeCAD file that is parametric - you can choose some of the major dimensions.
 - The default settings is for a 200 mm long LED strip.
