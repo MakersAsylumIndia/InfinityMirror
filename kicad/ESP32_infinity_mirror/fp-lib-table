@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "infinity_mirror")(type "KiCad")(uri "${KIPRJMOD}/infinity_mirror.pretty")(options "")(descr ""))
+)

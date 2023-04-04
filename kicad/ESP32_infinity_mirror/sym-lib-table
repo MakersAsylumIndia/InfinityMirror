@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Infinity_mirror")(type "KiCad")(uri "${KIPRJMOD}/Infinity_mirror.kicad_sym")(options "")(descr ""))
+)
